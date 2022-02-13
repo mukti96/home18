@@ -1,0 +1,14 @@
+{
+  "name": "home18",
+  "version": "1.0.0",
+  "description": "this is developer",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 5050"
+  },
+  "author": "mukti",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

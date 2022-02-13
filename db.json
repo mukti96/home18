@@ -1,0 +1,28 @@
+{
+    "deves" :   [
+        {
+            "id"    : 1,
+            "name": "Asraful haque",
+            "age": 10,
+            "skill": "wordpress",
+            "location": "mirpur",
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Passport_Size_Image_of_Nouman.jpg"
+        },
+        {
+            "id"    : 2,
+            "name": "jillur rahman",
+            "age": 9,
+            "skill": "phython",
+            "location": "uttara",
+            "photo": "https://i.pinimg.com/originals/ed/18/91/ed189191dc22169f0e6786a85f068616.jpg"
+        },
+        {
+            "id"    : 3,
+            "name": "Raju",
+            "age": 8,
+            "skill": "mern",
+            "location": "gazipur",
+            "photo": "https://myinternship.com.au/wp-content/uploads/2019/10/Male-6.jpg"
+        }
+    ]
+}
